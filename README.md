@@ -72,6 +72,10 @@ kit_admin_mail_stats:
 History Log
 =============
 
+- 0.0.2 -- 2021-06-18
+
+    - update api to work with Ling.Light_Kit_Admin:0.13.0
+  
 - 0.0.1 -- 2021-06-18
 
     - initial commit
